@@ -1,0 +1,14 @@
+.check {
+  color: green;
+  cursor: pointer;
+}
+
+.uncheck {
+  color: gray;
+  cursor: pointer;
+}
+
+.delete {
+  color: red;
+  cursor: pointer;
+}
